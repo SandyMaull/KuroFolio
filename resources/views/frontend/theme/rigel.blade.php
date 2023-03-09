@@ -236,7 +236,7 @@
                                 <h4>{{$value->degree ? $value->degree : ''}}</h4>
                                 <h5>{{$value->period ? $value->period : ''}}</h5>
                                 <p class="font-weight-bold text-muted">{{$value->institution ? $value->institution : ''}}</p>
-                                <span>{{$value->degree ? $value->degree : ''}}</span>
+                                <span>{{$value->department ? $value->department : ''}}</span>
                                 <p>{{$value->cgpa ? $value->cgpa : ''}}</p>
                             </div>
                         @endforeach
