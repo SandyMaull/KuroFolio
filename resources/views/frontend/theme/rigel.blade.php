@@ -251,7 +251,7 @@
         <section id="projects" class="resume">
             <div class="container">
                 <div class="section-title">
-                    <h2>Projects</h2>
+                    <h2>Projects and Stuff</h2>
                 </div>
                 <div>
                     <div 
